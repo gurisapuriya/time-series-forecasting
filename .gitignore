@@ -1,0 +1,10 @@
+# Ignore Python virtual environment
+env/
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Docker data (if any)
+.docker/

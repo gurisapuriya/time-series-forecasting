@@ -1,0 +1,24 @@
+services:
+  fastapi:
+    build:
+      context: .
+      dockerfile: dockerfile
+    image: proj-fastapi:latest
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
+    environment:
+      - PORT=8080
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: dockerfile.streamlit
+    image: proj_streamlit:latest
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    depends_on:
+      - fastapi
