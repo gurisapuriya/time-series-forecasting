@@ -71,7 +71,6 @@ The app is live on **GCP Cloud Run** for real-time forecasting.
    - **FastAPI (Deployed)**: `https://fastapi-service-995431799163.us-central1.run.app`
    - **Streamlit (Deployed)**: `https://streamlit-service-995431799163.us-central1.run.app`
 
-*Note: Replace the deployed URLs with your actual Cloud Run service URLs before submission.*
 
 ---
 
