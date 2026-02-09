@@ -70,6 +70,8 @@ The app is live on **GCP Cloud Run** for real-time forecasting.
    - Streamlit (Local): `http://localhost:8501`
    - **FastAPI (Deployed)**: `https://fastapi-service-995431799163.us-central1.run.app`
    - **Streamlit (Deployed)**: `https://streamlit-service-995431799163.us-central1.run.app`
+   <img width="1512" height="901" alt="Screenshot 2026-02-09 at 4 01 19 AM" src="https://github.com/user-attachments/assets/349560c4-5a78-41d7-ba3a-f37c77c7fa0e" />
+   <img width="1510" height="901" alt="Screenshot 2026-02-09 at 4 02 21 AM" src="https://github.com/user-attachments/assets/44962289-725f-4b22-b8ec-2989b2ee8ded" />
    <img width="1512" height="914" alt="Screenshot 2026-02-09 at 3 50 21 AM" src="https://github.com/user-attachments/assets/be14e025-9ba1-43e9-94fa-3c385cd51418" />
 
 
